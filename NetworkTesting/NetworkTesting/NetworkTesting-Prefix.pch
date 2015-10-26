@@ -1,0 +1,25 @@
+//
+//  NetworkTesting-Prefix.pch
+//  NetworkTesting
+//
+//  Created by Muzammil Peer on 10/26/15.
+//  Copyright (c) 2015 Muzammil Peer. All rights reserved.
+//
+
+#ifndef NetworkTesting_NetworkTesting_Prefix_pch
+#define NetworkTesting_NetworkTesting_Prefix_pch
+
+#import <UIKit/UIKit.h>
+#import "Constants.h"
+#import "BaseNetworkRequest.h"
+#import "BaseViewController.h"
+#import "AFNetworkReachabilityManager.h"
+#import "NewNetworkManager.h"
+#import "NSData+Additions.h"
+
+
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#endif
